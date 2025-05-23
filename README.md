@@ -1,10 +1,10 @@
 # Hello, I'm Leanna Wu
 Aspiring Accountant | Economics Student 
 
-I'm currently studying **Economics** with a minor in **Business Administration**,  
-with a strong interest in leveraging technology to solve financial and analytical problems.  
-I enjoy building tools that simplify budgeting, financial planning, and data analysis,  
-and I’m passionate about combining technical skills with practical business insights.
+I'm currently studying **Economics** with a minor in **Business Administration** at City College of San Francisco,  
+with a strong interest in leveraging technology to solve financial and analytical problems. I enjoy building tools 
+that simplify budgeting, financial planning, and data analysis, and I’m passionate about combining technical skills 
+with practical business insights.
 
 ### Current Projects
 - Developing a personal **budget tracker** to manage and visualize monthly expenses
